@@ -7,11 +7,7 @@ const ProFeature = () => {
       <div className="lg:my-24 justify-center">
         <div className="w-full mb-5 lg:flex gap-5">
           <div className="w-full mb-8 lg:mb-0">
-            <img
-              src="https://images.pexels.com/photos/9204671/pexels-photo-9204671.jpeg?auto=compress&cs=tinysrgb&w=4000&lazy=load"
-              alt=""
-              className="w-full rounded-3xl"
-            />
+            <img src="CardImage7.jpeg" alt="" className="w-full rounded-3xl" />
           </div>
           <div className="lg:w-2/3  md:p-16 lg:p-0 mb-8 lg:mb-0 flex items-center w-full rounded-3xl bg-gradient-to-br from-amber-100 to-amber-200">
             <div>
@@ -42,11 +38,7 @@ const ProFeature = () => {
         </div>
         <div className="w-full lg:flex gap-5 mb-5">
           <div className="border lg:hidden mb-8 lg:mb-0 w-full rounded-3xl">
-            <img
-              src="https://images.pexels.com/photos/4050083/pexels-photo-4050083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=4000&dpr=2"
-              alt=""
-              className="w-full rounded-3xl"
-            />
+            <img src="CardImage8.jpeg" alt="" className="w-full rounded-3xl" />
           </div>
           <div className="lg:w-2/3  md:p-16 lg:p-0 mb-8 lg:mb-0 flex items-center w-full rounded-3xl bg-gradient-to-br from-amber-100 to-amber-200">
             <div>
@@ -75,20 +67,12 @@ const ProFeature = () => {
             </div>
           </div>
           <div className="border hidden lg:block mb-8 lg:mb-0 w-full rounded-3xl">
-            <img
-              src="https://images.pexels.com/photos/4050083/pexels-photo-4050083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=4000&dpr=2"
-              alt=""
-              className="w-full rounded-3xl"
-            />
+            <img src="CardImage8.jpeg" alt="" className="w-full rounded-3xl" />
           </div>
         </div>
         <div className="w-full mb-5 lg:flex gap-5">
           <div className="w-full mb-8 lg:mb-0">
-            <img
-              src="https://images.pexels.com/photos/7243182/pexels-photo-7243182.jpeg?auto=compress&cs=tinysrgb&w=1260&h=4000&dpr=2"
-              alt=""
-              className="w-full rounded-3xl"
-            />
+            <img src="CardImage9.jpeg" alt="" className="w-full rounded-3xl" />
           </div>
           <div className="lg:w-2/3  md:p-16 lg:p-0 mb-8 lg:mb-0 flex items-center w-full rounded-3xl bg-gradient-to-br from-amber-100 to-amber-200">
             <div>
@@ -119,11 +103,7 @@ const ProFeature = () => {
         </div>
         <div className="w-full lg:flex gap-5 mb-5">
           <div className="border lg:hidden mb-8 lg:mb-0 w-full rounded-3xl">
-            <img
-              src="https://images.pexels.com/photos/6000094/pexels-photo-6000094.jpeg?auto=compress&cs=tinysrgb&w=1260&h=4000&dpr=2"
-              alt=""
-              className="w-full rounded-3xl"
-            />
+            <img src="CardImage10.jpeg" alt="" className="w-full rounded-3xl" />
           </div>
           <div className="lg:w-2/3  md:p-16 lg:p-0 mb-8 lg:mb-0 flex items-center w-full rounded-3xl bg-gradient-to-br from-amber-100 to-amber-200">
             <div>
@@ -152,20 +132,12 @@ const ProFeature = () => {
             </div>
           </div>
           <div className="border hidden lg:block mb-8 lg:mb-0 w-full rounded-3xl">
-            <img
-              src="https://images.pexels.com/photos/6000094/pexels-photo-6000094.jpeg?auto=compress&cs=tinysrgb&w=1260&h=4000&dpr=2"
-              alt=""
-              className="w-full rounded-3xl"
-            />
+            <img src="CardImage10.jpeg" alt="" className="w-full rounded-3xl" />
           </div>
         </div>
         <div className="w-full mb-5 lg:flex gap-5">
           <div className="w-full mb-8 lg:mb-0">
-            <img
-              src="https://images.pexels.com/photos/7989066/pexels-photo-7989066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=4000&dpr=2"
-              alt=""
-              className="w-full rounded-3xl"
-            />
+            <img src="CardImage11.jpeg" alt="" className="w-full rounded-3xl" />
           </div>
           <div className="lg:w-2/3  md:p-16 lg:p-0 mb-8 lg:mb-0 flex items-center w-full rounded-3xl bg-gradient-to-br from-amber-100 to-amber-200">
             <div>

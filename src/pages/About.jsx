@@ -10,31 +10,31 @@ function About() {
             <div className="flex gap-5">
               <div className="flex flex-col gap-5">
                 <img
-                  src="https://images.pexels.com/photos/4606333/pexels-photo-4606333.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+                  src="AboutUs1.jpeg"
                   alt="AI-powered earbuds"
                   className="w-48 object-cover rounded-lg"
                 />
                 <img
-                  src="https://images.pexels.com/photos/8512457/pexels-photo-8512457.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  src="AboutUs3.jpeg"
                   alt="AI-powered earbuds"
                   className="w-48  object-cover rounded-lg"
                 />
               </div>
               <div className="flex flex-col gap-5">
                 <img
-                  src="https://images.pexels.com/photos/4945069/pexels-photo-4945069.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  src="AboutUs2.jpeg"
                   alt="AI-powered earbuds"
                   className="w-48 mt-14 object-cover rounded-lg"
                 />
                 <img
-                  src="https://images.pexels.com/photos/5588376/pexels-photo-5588376.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  src="AboutUs4.jpeg"
                   alt="AI-powered earbuds"
                   className="w-48 object-cover rounded-lg"
                 />
               </div>
               <div>
                 <img
-                  src="https://images.pexels.com/photos/4049454/pexels-photo-4049454.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  src="AboutUs5.jpeg"
                   alt="AI-powered earbuds"
                   className="w-48 mt-40 object-cover rounded-lg"
                 />

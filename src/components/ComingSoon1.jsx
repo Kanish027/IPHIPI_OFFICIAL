@@ -35,10 +35,7 @@ const ComingSoon1 = () => {
             </div>
           </div>
           <div className="slide">
-            <img
-              src="https://images.pexels.com/photos/7243011/pexels-photo-7243011.jpeg?auto=compress&cs=tinysrgb&w=4000&lazy=load"
-              alt=""
-            />
+            <img src="CardImage1.jpeg" alt="" />
           </div>
           <div className="slide">
             <div
@@ -66,10 +63,7 @@ const ComingSoon1 = () => {
             </div>
           </div>
           <div className="slide">
-            <img
-              src="https://images.pexels.com/photos/8053704/pexels-photo-8053704.jpeg?auto=compress&cs=tinysrgb&w=4000"
-              alt=""
-            />
+            <img src="CardImage6.jpeg" alt="" />
           </div>
           {/* <div className="slide">
           <div

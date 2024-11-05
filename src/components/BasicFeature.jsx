@@ -49,11 +49,7 @@ const BasicFeature = () => {
         </div>
         <div className="w-full lg:flex gap-5 mb-5">
           <div className="border lg:hidden mb-8 lg:mb-0 w-full rounded-3xl">
-            <img
-              src="https://images.pexels.com/photos/3755919/pexels-photo-3755919.jpeg?auto=compress&cs=tinysrgb&w=4000&lazy=load"
-              alt=""
-              className="w-full rounded-3xl"
-            />
+            <img src="CardImage5.jpeg" alt="" className="w-full rounded-3xl" />
           </div>
           <div className="border  md:p-16 lg:p-0 mb-8 lg:mb-0 lg:w-2/3 w-full flex items-center bg-gradient-to-br from-blue-100 to-blue-200 rounded-3xl">
             <div>
@@ -84,20 +80,12 @@ const BasicFeature = () => {
             </div>
           </div>
           <div className="border hidden lg:block mb-8 lg:mb-0 w-full rounded-3xl">
-            <img
-              src="https://images.pexels.com/photos/3755919/pexels-photo-3755919.jpeg?auto=compress&cs=tinysrgb&w=4000&lazy=load"
-              alt=""
-              className="w-full rounded-3xl"
-            />
+            <img src="CardImage5.jpeg" alt="" className="w-full rounded-3xl" />
           </div>
         </div>
         <div className="w-full mb-5 lg:flex gap-5">
           <div className="border w-full rounded-3xl mb-8 lg:mb-0">
-            <img
-              src="https://images.pexels.com/photos/10958687/pexels-photo-10958687.jpeg?auto=compress&cs=tinysrgb&w=4000&lazy=load"
-              alt=""
-              className="w-full rounded-3xl"
-            />
+            <img src="CardImage2.jpeg" alt="" className="w-full rounded-3xl" />
           </div>
           <div className="border flex items-center md:p-16 lg:p-0 mb-8 lg:mb-0 lg:w-2/3 w-full bg-gradient-to-br from-blue-100 to-blue-200 rounded-3xl">
             <div>
@@ -129,11 +117,7 @@ const BasicFeature = () => {
         </div>
         <div className="w-full lg:flex gap-5 mb-5">
           <div className="border lg:hidden mb-8 lg:mb-0 w-full rounded-3xl">
-            <img
-              src="https://images.pexels.com/photos/7129056/pexels-photo-7129056.jpeg?auto=compress&cs=tinysrgb&w=4000&lazy=load"
-              alt=""
-              className="w-full rounded-3xl"
-            />
+            <img src="CardImage4.jpeg" alt="" className="w-full rounded-3xl" />
           </div>
           <div className="border flex items-center md:p-16 lg:p-0 mb-8 lg:mb-0 lg:w-2/3 w-full bg-gradient-to-br from-blue-100 to-blue-200 rounded-3xl">
             <div>
@@ -160,11 +144,7 @@ const BasicFeature = () => {
             </div>
           </div>
           <div className="border hidden lg:block mb-8 lg:mb-0 w-full rounded-3xl">
-            <img
-              src="https://images.pexels.com/photos/7129056/pexels-photo-7129056.jpeg?auto=compress&cs=tinysrgb&w=4000&lazy=load"
-              alt=""
-              className="w-full rounded-3xl"
-            />
+            <img src="CardImage4.jpeg" alt="" className="w-full rounded-3xl" />
           </div>
         </div>
       </div>
