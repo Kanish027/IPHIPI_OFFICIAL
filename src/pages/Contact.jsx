@@ -35,7 +35,7 @@ const Contact = () => {
     <div className="lg:mx-5 py-4 mb-10 rounded-3xl">
       <div className="container rounded-3xl px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col lg:flex-row gap-8 lg:gap-10">
-          <div className="w-full">
+          <div className="w-full hidden lg:block">
             <p
               className="text-base sm:text-lg"
               style={{

@@ -10,6 +10,14 @@
   padding: 0 20px;
 }
 
+/* Chrome, Safari, and Edge */
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  .coming-soon-container {
+    width: 1199px;
+    overflow: hidden;
+  }
+}
+
 .heading {
   max-width: 42rem !important;
   text-align: center !important;
