@@ -11,12 +11,6 @@
 }
 
 /* Chrome, Safari, and Edge */
-/* @media screen and (-webkit-min-device-pixel-ratio: 0) {
-  .coming-soon-container {
-    width: 1199px;
-    overflow: hidden;
-  }
-} */
 
 .heading {
   max-width: 42rem !important;
@@ -82,6 +76,13 @@
   }
   .slide {
     width: 480px;
+  }
+
+  @media screen and (-webkit-min-device-pixel-ratio: 0) {
+    .coming-soon-container {
+      width: 1199px;
+      overflow: hidden;
+    }
   }
 }
 
